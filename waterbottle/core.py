@@ -38,5 +38,5 @@ def colorPalette(imagepath):
 def pixelValueDifferencing(imagepath):
     print("Pixel value differencing")
 
-
-
+def fullRun(filepath):
+    print("Runs all of the tools")
